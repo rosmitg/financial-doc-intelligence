@@ -1,0 +1,104 @@
+name: Eval and Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  evaluate:
+    name: Run RAGAS Evaluation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install PyTorch CPU
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Install dependencies
+        run: |
+          pip install --no-deps -r requirements.txt
+
+      - name: Run RAGAS evaluation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          LANGSMITH_API_KEY: ${{ secrets.LANGSMITH_API_KEY }}
+          LANGCHAIN_API_KEY: ${{ secrets.LANGSMITH_API_KEY }}
+          LANGCHAIN_TRACING_V2: "true"
+          LANGCHAIN_PROJECT: financial-intelligence-docs
+          LANGSMITH_ENDPOINT: https://apac.api.smith.langchain.com
+          LANGCHAIN_ENDPOINT: https://apac.api.smith.langchain.com
+        run: |
+          python -m app.evaluation.ragas_eval
+
+      - name: Check quality gate
+        run: |
+          python -c "
+          from app.evaluation.ragas_eval import check_quality_gate
+          import sys
+          passed = check_quality_gate()
+          sys.exit(0 if passed else 1)
+          "
+
+      - name: Upload eval results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: eval-results
+          path: storage/eval_results.json
+
+  build:
+    name: Build Docker Image
+    runs-on: ubuntu-latest
+    needs: evaluate
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: |
+          docker build -t financial-doc-intelligence .
+
+      - name: Verify container starts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          LANGSMITH_API_KEY: ${{ secrets.LANGSMITH_API_KEY }}
+          LANGCHAIN_API_KEY: ${{ secrets.LANGSMITH_API_KEY }}
+          LANGCHAIN_TRACING_V2: "true"
+          LANGCHAIN_PROJECT: financial-intelligence-docs
+          LANGSMITH_ENDPOINT: https://apac.api.smith.langchain.com
+          LANGCHAIN_ENDPOINT: https://apac.api.smith.langchain.com
+        run: |
+          docker run -d \
+            --name test-container \
+            -p 8000:8000 \
+            -e ANTHROPIC_API_KEY=$ANTHROPIC_API_KEY \
+            -e DATABASE_URL=$DATABASE_URL \
+            -e LANGSMITH_API_KEY=$LANGSMITH_API_KEY \
+            -e LANGCHAIN_API_KEY=$LANGCHAIN_API_KEY \
+            -e LANGCHAIN_TRACING_V2=$LANGCHAIN_TRACING_V2 \
+            -e LANGCHAIN_PROJECT=$LANGCHAIN_PROJECT \
+            -e LANGSMITH_ENDPOINT=$LANGSMITH_ENDPOINT \
+            -e LANGCHAIN_ENDPOINT=$LANGCHAIN_ENDPOINT \
+            financial-doc-intelligence
+
+          echo "Waiting for container to start..."
+          sleep 30
+
+          curl -f http://localhost:8000/health || exit 1
+          echo "Container health check passed"
+
+          docker stop test-container
