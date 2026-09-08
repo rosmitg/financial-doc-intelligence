@@ -1,0 +1,93 @@
+WESTPAC BANKING CORPORATION
+DIGITAL TRANSFORMATION STRATEGY 2024-2026
+CLASSIFICATION: CONFIDENTIAL
+DEPARTMENT: TECHNOLOGY
+PREPARED BY: Group Chief Information Officer
+DATE: September 2024
+
+EXECUTIVE SUMMARY
+
+Westpac is undertaking the most significant technology transformation in its 200-year history. The Digital Transformation Strategy 2024-2026 represents a 1.5 billion dollar investment across three financial years to modernise core banking infrastructure, deploy artificial intelligence across key business processes, and fundamentally reshape how 13 million customers interact with the bank.
+
+This strategy addresses a critical competitive threat. Neobanks and technology companies are capturing younger customer segments through superior digital experiences. Westpac's net promoter score among customers aged 18-35 has declined from positive 12 to negative 8 over the past three years. Without significant investment in digital capability, the bank risks losing a generation of customers before they reach their peak earning and borrowing years.
+
+The strategy has three pillars: modernise the foundation through core banking replacement, accelerate intelligence through AI and data capability, and reimagine experience through customer-facing digital products. Each pillar has specific investment allocations, delivery timelines, accountability frameworks, and measurable outcomes.
+
+STRATEGIC CONTEXT
+
+The banking industry is experiencing structural disruption driven by four forces. First, customer expectations have been permanently reset by technology companies. Customers who can hail a car in 30 seconds and receive a product recommendation in milliseconds expect the same speed and personalisation from their bank. Second, regulatory requirements have increased dramatically. The Consumer Data Right legislation requires Westpac to share customer data with accredited third parties, fundamentally changing the competitive dynamics of the industry. Third, the cost of technology has declined sharply. Cloud computing, open source software, and AI APIs have made capabilities available to new entrants that previously required billions in infrastructure investment. Fourth, artificial intelligence has crossed a capability threshold where it can perform tasks previously requiring human judgment.
+
+Westpac enters this transformation from a position of financial strength but technological weakness. The bank generates 3.6 billion dollars in annual net profit and maintains a capital adequacy ratio of 13.2 percent, well above regulatory minimums. However, 60 percent of the technology estate runs on systems more than 20 years old. The core banking system was built in COBOL in the 1970s. Mortgage processing requires 47 manual handoffs between 12 different systems. Customer onboarding for a transaction account takes 8 minutes on mobile and 23 minutes in branch.
+
+PILLAR ONE: MODERNISE THE FOUNDATION
+
+Core Banking Replacement Program:
+The most critical and highest-risk initiative in the strategy is the replacement of the core banking system. The existing system, built on COBOL and maintained by a team of 340 engineers with an average age of 54, processes 4.2 million transactions per day and holds the financial records of 13 million customers spanning 47 years of history.
+
+The replacement program will migrate all customer accounts, transaction history, loan balances, and product configurations to a cloud-native architecture built on AWS. The program is structured in five phases over 36 months. Phase one covers transaction accounts and deposits for retail customers. Phase two covers home loans and personal lending. Phase three covers business banking and commercial lending. Phase four covers wealth management and insurance products. Phase five covers international and institutional banking.
+
+The migration strategy uses a dual-write pattern where both the old and new systems process every transaction simultaneously for a period of six months per phase. This allows the bank to verify data integrity and system behaviour before cutting over and eliminates the risk of a single cutover event. The zero-downtime requirement is non-negotiable given that Westpac processes payroll for 2.3 million Australian workers.
+
+Total program cost is estimated at 680 million dollars over three years. The program carries execution risk that has been assessed as high. Two previous Australian bank core banking replacement programs, at Commonwealth Bank and NAB, experienced significant cost overruns and delivery delays. Westpac has engaged McKinsey to provide independent program governance and has structured vendor contracts with milestone-based payments to manage delivery risk.
+
+Cloud Infrastructure Migration:
+Parallel to the core banking replacement, Westpac is migrating its entire technology estate to AWS. Currently 23 percent of workloads run in the cloud. The target is 80 percent by end of 2026. The migration will reduce infrastructure operating costs by an estimated 180 million dollars annually through elimination of data centre leases, hardware refresh cycles, and associated maintenance contracts.
+
+The cloud migration also enables the AI and data capability investments in Pillar Two. Machine learning at scale requires elastic compute that cannot be provisioned cost-effectively on-premise. The bank's current on-premise GPU cluster consists of 48 NVIDIA A100 cards that are fully utilised and have a 14-month procurement lead time for expansion. AWS provides access to thousands of GPUs on demand with no capital commitment.
+
+API Platform and Open Banking:
+The Consumer Data Right legislation requires Westpac to provide accredited third parties with access to customer data through standardised APIs by July 2025. Non-compliance carries penalties of up to 10 million dollars per breach. Beyond compliance, the API platform creates commercial opportunities. Westpac can generate fee income by providing banking-as-a-service capabilities to fintech companies and non-bank businesses seeking to embed financial products.
+
+The API platform will expose 47 standardised endpoints covering account information, transaction history, mortgage details, and payment initiation. Security architecture uses OAuth 2.0 with customer consent management ensuring customers control which third parties can access their data and can revoke consent at any time.
+
+PILLAR TWO: ACCELERATE INTELLIGENCE
+
+Artificial Intelligence Strategy:
+Westpac is deploying artificial intelligence across five priority domains: mortgage processing, fraud detection, customer service, credit risk assessment, and regulatory compliance. The AI strategy is anchored in three principles. First, AI augments human judgment rather than replacing it for high-stakes decisions. Second, all AI models must be explainable and auditable to meet APRA and ASIC requirements. Third, customer consent is required before personal data is used to train or run personalised AI models.
+
+The bank has established an AI Centre of Excellence with 85 data scientists, machine learning engineers, and AI ethics specialists. The team is organised into five squads aligned to each priority domain, with each squad responsible for model development, production deployment, ongoing monitoring, and performance improvement.
+
+Mortgage Processing AI:
+The mortgage processing AI system represents the largest single AI investment at 95 million dollars. The system addresses a critical operational problem: Westpac's mortgage approval process takes an average of 5.2 business days compared to 1.8 days for the leading digital lender. This speed disadvantage is the primary reason cited by mortgage brokers for directing business away from Westpac.
+
+The AI system performs automated income verification by reading and interpreting payslips, tax returns, and bank statements using optical character recognition and natural language processing. It cross-references declared income against ATO data through the Australian Taxation Office's data sharing program. It calculates debt serviceability under current and stressed interest rate scenarios. It assesses property valuations using automated valuation models trained on 12 million historical property transactions.
+
+Human review is mandatory for all applications above 2 million dollars, all applications from self-employed borrowers, all applications where automated confidence score falls below 85 percent, and all applications involving complex income structures such as trusts or multiple business interests. The human review rate in the pilot program was 31 percent of applications, meaning 69 percent were processed fully automatically within 4 hours.
+
+Fraud Detection and Financial Crime:
+The fraud detection system processes every transaction in real time, generating a fraud probability score within 180 milliseconds. The model is a gradient boosting ensemble trained on 36 months of transaction data including 2.4 million confirmed fraud cases. Features include transaction amount, merchant category, geographic location, time of day, device fingerprint, and behavioural biometrics derived from how the customer holds and interacts with their phone.
+
+The system reduced fraud losses by 34 percent in the first year of operation compared to the previous rules-based system. The false positive rate, representing legitimate transactions incorrectly declined, fell from 2.1 percent to 0.4 percent. This improvement in false positive rate is commercially significant because every incorrectly declined transaction damages customer trust and may result in the customer switching to a competitor.
+
+Anti-money laundering transaction monitoring uses a separate graph neural network model that analyses relationships between accounts, entities, and transactions to identify suspicious network patterns. The model generates automatic suspicious matter reports to AUSTRAC for transactions meeting defined thresholds, reducing manual review time by 67 percent.
+
+PILLAR THREE: REIMAGINE EXPERIENCE
+
+Mobile Banking Platform:
+The Westpac mobile banking app will be completely rebuilt on a new technology stack during 2024 and 2025. The existing app was built in 2016 and has accumulated significant technical debt through years of feature additions without architectural refactoring. App store ratings have declined from 4.3 to 3.1 over the past two years, driven by performance and reliability complaints.
+
+The new app is being built using React Native to enable simultaneous iOS and Android development from a single codebase. The design system follows Apple Human Interface Guidelines and Google Material Design 3 principles. Performance targets require the home screen to load within 1.2 seconds on a 4G connection and all transactions to complete within 3 seconds including bank processing time.
+
+Personalisation engine will surface relevant product recommendations, spending insights, and financial health indicators based on transaction behaviour analysis. Customers who opt into personalisation will see their app experience tailored to their life stage, financial goals, and product holdings.
+
+FINANCIAL SUMMARY
+
+Total investment: 1.5 billion dollars over three financial years.
+FY2024 investment: 420 million dollars.
+FY2025 investment: 580 million dollars.
+FY2026 investment: 500 million dollars.
+
+Expected benefits by end of FY2026:
+Infrastructure cost reduction: 180 million dollars annually.
+Fraud loss reduction: 85 million dollars annually.
+Mortgage processing cost reduction: 45 million dollars annually.
+Customer service cost reduction: 60 million dollars annually.
+Revenue uplift from improved NPS and retention: 200 million dollars annually.
+Total annual benefit: 570 million dollars.
+Payback period: 2.6 years from program completion.
+
+GOVERNANCE AND RISK
+
+The program is governed by the Digital Transformation Steering Committee, chaired by the Group Chief Executive Officer and including the Chief Financial Officer, Chief Risk Officer, Chief Information Officer, and three independent board directors.
+
+Key risks include program execution risk, vendor dependency risk, regulatory approval risk for AI models, and cybersecurity risk during the migration period. Each risk has a defined mitigation strategy, risk owner, and escalation threshold. The board receives a monthly program update and has authority to pause or restructure any component of the program if risk levels exceed approved tolerances.

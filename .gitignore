@@ -1,30 +1,47 @@
+cat > .gitignore << 'EOF'
 # Environment
-venv/
 .env
+.env.local
+
+# Python
+venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
+*.egg-info/
+dist/
+build/
 
-# Data
+# Type checking cache
+.mypy_cache/
+
+# Storage — regenerated at runtime
+storage/
+
+# Data — keep txt sample docs, exclude large PDFs
 data/documents/*.pdf
-data/documents/*.txt
 
 # IDE
 .vscode/
 .idea/
-
-# Build
-dist/
-build/
-*.egg-info/
+*.swp
 
 # OS
 .DS_Store
-
-# LlamaIndex cache
-storage/
+Thumbs.db
 
 # Logs
 *.log
+
+# Debug and test scripts
+debug_*.py
+test_chain.py
+
+# HuggingFace model cache
+.cache/
+
+# Extra requirements file
+requirements.top-level.txt
+EOF.mypy_cache/

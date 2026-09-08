@@ -1,0 +1,92 @@
+WESTPAC BANKING CORPORATION
+QUARTERLY FINANCIAL REPORT
+THIRD QUARTER 2024
+CLASSIFICATION: PUBLIC
+DEPARTMENT: FINANCE
+PREPARED BY: Chief Financial Officer
+DATE: September 2024
+
+EXECUTIVE SUMMARY
+
+Westpac delivered a solid financial performance in the third quarter of 2024, generating net profit after tax of 890 million dollars, representing a net margin of 21 percent on total revenue of 4.2 billion dollars. Revenue increased 12 percent year on year driven by strong net interest income growth and recovery in non-interest income following the disposal of the wealth management business in the prior year.
+
+The result was achieved against a backdrop of increasing credit stress, with 90-day mortgage arrears rising to 0.89 percent from 0.72 percent in the prior quarter. The bank increased its credit provisions by 180 million dollars in the quarter to reflect deteriorating economic conditions and the ongoing impact of elevated interest rates on household budgets. Despite increased provisioning, the capital position remains strong with a Common Equity Tier 1 ratio of 13.2 percent, well above the APRA minimum of 10.5 percent.
+
+The board declared an interim dividend of 75 cents per share fully franked, representing a payout ratio of 68 percent of cash earnings consistent with the bank's dividend policy.
+
+INCOME STATEMENT ANALYSIS
+
+Net Interest Income:
+Net interest income of 3.1 billion dollars increased 8 percent year on year and 2 percent quarter on quarter. The net interest margin of 1.89 percent was stable quarter on quarter but declined 4 basis points year on year reflecting competitive pressure in the mortgage market and the cost of holding elevated liquid assets.
+
+The mortgage book repriced higher as fixed rate loans originated during the low rate period of 2021 and 2022 rolled onto variable rates. Approximately 38,000 fixed rate mortgage customers rolled off fixed rates during the quarter onto variable rates averaging 6.3 percent compared to their expiring fixed rates averaging 2.1 percent. This repricing contributed positively to net interest margin but also increased credit stress among affected customers.
+
+Deposit competition intensified during the quarter with major bank and non-major bank competitors offering above-market term deposit rates to attract funding. Westpac increased term deposit rates 3 times during the quarter to remain competitive, partly offsetting the benefit of higher lending rates on the net interest margin.
+
+Non-Interest Income:
+Non-interest income of 1.1 billion dollars increased 24 percent year on year. The increase was driven by higher transaction banking fees from the institutional banking business, improved financial markets income from client flow activity, and growth in insurance premium income from the general insurance business.
+
+Wealth management income declined 15 percent reflecting the planned wind-down of the aligned adviser network following the Royal Commission recommendations. The remaining wealth management business generates income from BT superannuation administration fees and investment platform revenue.
+
+Operating Expenses:
+Total operating expenses of 1.94 billion dollars increased 4 percent year on year. The cost to income ratio improved to 46.3 percent from 48.1 percent in the prior corresponding period, reflecting revenue growth outpacing cost growth.
+
+Technology investment of 420 million dollars in the financial year to date represents 21 percent of total operating expenses, the highest proportion in the bank's history. This investment covers the core banking replacement program, cloud migration, AI development, and cybersecurity. The bank expects technology investment to remain elevated through FY2025 before declining as major programs are completed and operating efficiencies are realised.
+
+Staff expenses increased 3 percent reflecting annual salary increases partially offset by a 2 percent reduction in full-time equivalent headcount through natural attrition and targeted redundancies in operations functions where automation has reduced workload. Total staff count is 35,400 full-time equivalents.
+
+Credit Impairment Charges:
+Credit impairment charges of 180 million dollars increased 35 percent from 133 million dollars in the prior corresponding period. The increase reflects a combination of higher specific provisions on individually impaired business loans and an overlay to the collective provision reflecting increased uncertainty in the economic outlook.
+
+Specific provisions of 95 million dollars were raised primarily against three commercial property loans in the office sector where occupancy rates have not recovered following the shift to hybrid working. These loans totalling 680 million dollars are being actively managed with the borrowers to achieve sale or refinancing outcomes.
+
+Collective provision overlay of 85 million dollars reflects the bank's assessment that the existing model-derived provisions may not fully capture the impact of the interest rate environment on borrower capacity to service debt. The overlay will be reviewed quarterly as actual arrears experience develops.
+
+BALANCE SHEET ANALYSIS
+
+Loan Portfolio:
+Total loans and advances of 720 billion dollars increased 4 percent year on year driven by growth in residential mortgages and business lending. New mortgage originations of 18 billion dollars in the quarter were 8 percent higher than the prior corresponding period but 12 percent below the peak origination quarter of Q2 2022.
+
+The mortgage portfolio mix shifted toward owner-occupied lending which now represents 68 percent of the residential mortgage book compared to 63 percent two years ago, reflecting reduced investor demand in response to higher interest rates and stricter serviceability requirements.
+
+Business lending growth of 7 percent year on year was driven by the institutional banking division which grew lending to corporate customers by 12 percent, partially offset by ongoing reduction in commercial property exposure as the bank executes its portfolio concentration reduction strategy.
+
+Deposits and Funding:
+Total customer deposits of 680 billion dollars increased 6 percent year on year. At-call deposits of 380 billion dollars represent 56 percent of total deposits, with term deposits of 300 billion dollars making up the remainder. Term deposit growth of 18 percent year on year reflects customer preference for higher yielding savings products in the current interest rate environment.
+
+Wholesale funding of 180 billion dollars maintained stable with the average maturity extending to 4.2 years from 3.8 years in the prior year, reflecting the bank's strategy to increase funding tenor ahead of anticipated market volatility.
+
+ASSET QUALITY
+
+Mortgage Arrears:
+90-day mortgage arrears increased to 0.89 percent of the mortgage portfolio from 0.72 percent in the prior quarter. The increase was concentrated in variable rate loans originated between 2020 and 2022 where borrowers entered the post-pandemic rate rising cycle with higher debt levels relative to income.
+
+Geographic analysis shows arrears are highest in Western Sydney at 1.34 percent, outer Melbourne suburbs at 1.21 percent, and Southeast Queensland at 1.08 percent. These areas experienced the strongest property price growth during the pandemic period and have higher concentrations of recently originated loans with higher LVRs.
+
+Hardship registrations increased 23 percent quarter on quarter to 18,400 active cases. The bank's hardship program offers repayment deferrals of up to 3 months, interest-only repayment periods of up to 12 months, and loan term extensions. Customer outcomes data shows that 78 percent of customers who complete the hardship program return to regular repayment schedule without further assistance.
+
+Business Loan Quality:
+Business loan 90-day arrears of 0.34 percent were broadly stable quarter on quarter. The commercial property sector remains the area of greatest concern with 12 percent of the commercial property portfolio on the watchlist, defined as showing signs of financial stress but not yet impaired.
+
+Office sector commercial property loans totalling 4.2 billion dollars are subject to enhanced monitoring given structural changes in demand following the shift to hybrid working. Current occupancy rates for office buildings securing Westpac loans average 67 percent compared to pre-pandemic levels of 89 percent. Property valuations in this sector have declined 18 percent from peak levels.
+
+CAPITAL AND LIQUIDITY
+
+Capital Position:
+Common Equity Tier 1 capital ratio of 13.2 percent compares to the APRA minimum requirement of 10.5 percent, providing a buffer of 270 basis points. The buffer is within the board's target operating range of 250 to 300 basis points above the regulatory minimum.
+
+Risk weighted assets of 480 billion dollars increased 3 percent year on year, reflecting loan growth partially offset by credit risk model improvements that reduced model-derived risk weights for the retail mortgage portfolio. The average risk weight for the residential mortgage portfolio is 22 percent under the Advanced Internal Ratings Based approach, reflecting the secured and relatively low-risk nature of the portfolio.
+
+Capital generation from retained earnings of 580 million dollars in the quarter was partially offset by the dividend payment of 410 million dollars and regulatory capital deductions. Net organic capital generation of 170 million dollars increased the CET1 ratio by approximately 4 basis points.
+
+The bank does not intend to conduct a share buyback in the current environment given elevated economic uncertainty and the capital requirements of the digital transformation investment program. The board will review the buyback position at the half-year results in May 2025.
+
+OUTLOOK
+
+Management expects full year net profit after tax to be broadly in line with the prior year at approximately 3.5 billion dollars. Revenue growth of 8 to 10 percent in the fourth quarter is expected to be partially offset by higher credit impairment charges as arrears continue to rise toward the bank's base case projection of 1.1 percent by mid-2025.
+
+The interest rate outlook is a key variable for the fourth quarter result. Westpac Economics forecasts the first RBA rate cut in May 2025 which would provide relief to mortgage borrowers and potentially reduce arrears inflows from mid-2025. However, a delayed first cut to August 2025 or later would result in higher arrears and credit losses than the current base case projection.
+
+Operating expense growth is expected to moderate to 2 percent in the fourth quarter as the technology investment program moves from planning and design phases to implementation, with a higher proportion of costs capitalised rather than expensed. The cost to income ratio is expected to improve further to approximately 45 percent for the full year.
+
+Capital management will focus on maintaining the CET1 ratio within the target operating range while funding the digital transformation investment program. No additional capital raisings are planned for FY2024.

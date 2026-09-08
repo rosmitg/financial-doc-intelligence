@@ -1,0 +1,89 @@
+WESTPAC BANKING CORPORATION
+RISK MANAGEMENT FRAMEWORK 2024
+CLASSIFICATION: INTERNAL
+DEPARTMENT: RISK MANAGEMENT
+PREPARED BY: Chief Risk Officer
+DATE: September 2024
+
+EXECUTIVE SUMMARY
+
+The Westpac Risk Management Framework defines the structures, processes, and controls through which the bank identifies, measures, monitors, and manages risk across all business activities. The framework applies to all employees, contractors, and third parties operating on behalf of Westpac in all jurisdictions where the bank operates.
+
+Risk management at Westpac is organised around three lines of defence. The first line comprises business units that own and manage risk in their day-to-day operations. The second line comprises the Risk and Compliance function that provides oversight, challenge, and independent assessment of risk-taking activities. The third line comprises Internal Audit which provides independent assurance over the effectiveness of risk management and control frameworks.
+
+The board of directors holds ultimate responsibility for risk governance and sets the risk appetite within which management operates. The Board Risk Committee meets monthly and receives comprehensive risk reporting covering all material risk categories. Management risk committees operate at group and divisional levels with defined escalation paths to the board.
+
+CREDIT RISK
+
+Credit risk is the risk of financial loss arising from the failure of a borrower or counterparty to meet their contractual obligations. Credit risk represents the largest risk category on the Westpac balance sheet, accounting for approximately 78 percent of total risk weighted assets.
+
+Retail Credit Risk:
+Residential mortgage lending represents 67 percent of the total loan book at 120 billion dollars. The portfolio is secured against residential property across Australia with geographic concentration limits preventing any single metropolitan area from exceeding 35 percent of total residential exposures.
+
+Loan to value ratio distribution is actively managed. New lending above 80 percent LVR requires lenders mortgage insurance from an approved provider. The current portfolio average LVR is 58 percent, reflecting significant property price appreciation since origination for established loans. New origination average LVR is 71 percent.
+
+Serviceability assessment for all new mortgage applications uses a floor rate of 3 percent above the current variable rate or a minimum assessment rate of 6 percent, whichever is higher. This ensures borrowers can service their debt if interest rates rise materially from current levels. The buffer requirement is mandated by APRA Prudential Practice Guide APG 223.
+
+Mortgage stress testing is conducted monthly across the portfolio using three scenarios. The base case assumes unemployment rises to 5.5 percent and property values decline 10 percent. The adverse case assumes unemployment rises to 7 percent and property values decline 20 percent. The severe case assumes unemployment rises to 10 percent and property values decline 35 percent. Under the severe scenario, modelled credit losses would reach 4.8 billion dollars over three years, within the bank's capital capacity to absorb.
+
+Business and Commercial Credit Risk:
+Business lending represents 25 percent of the total loan book at 45 billion dollars. The portfolio covers small business lending, commercial property lending, corporate lending, and institutional lending.
+
+Credit appetite for business lending is defined by sector, geography, and borrower size. Concentration limits restrict exposure to any single industry sector to 15 percent of business lending and to any single counterparty to 10 percent of the bank's capital base. Current concentrated sectors include commercial property at 28 percent of business lending, which exceeds the sector limit and is subject to an active portfolio reduction program targeting reduction to 20 percent by end of FY2025.
+
+All business loans require annual review of financial statements, covenant compliance certification, and property valuations for secured exposures. Borrowers showing signs of financial stress are transferred to the Westpac Assist team which provides restructuring support, payment deferrals, and referrals to financial counselling services.
+
+Credit Provisions:
+Total credit provisions are held at 4.2 billion dollars, representing a coverage ratio of 2.3 percent of gross loans. Provisions are calculated under AASB 9 Expected Credit Loss methodology using probability of default, loss given default, and exposure at default parameters calibrated to historical loss experience and forward-looking economic assumptions.
+
+The provision balance includes 2.1 billion dollars of collective provisions covering performing loans, 1.4 billion dollars of specific provisions covering individually impaired loans, and 0.7 billion dollars of overlay provisions reflecting heightened economic uncertainty not captured in modelled outputs.
+
+MARKET RISK
+
+Market risk is the risk of loss arising from movements in market prices including interest rates, foreign exchange rates, credit spreads, and equity prices. Westpac's market risk exposures arise primarily from the structural balance sheet, trading book activities, and financial markets business.
+
+Interest Rate Risk:
+The structural interest rate risk position arises from differences in the repricing characteristics of assets and liabilities. Westpac's balance sheet is asset sensitive, meaning that net interest income increases when interest rates rise. The sensitivity of net interest income to a 100 basis point parallel upward shift in the yield curve is positive 380 million dollars over a 12 month horizon.
+
+Interest rate risk in the trading book is managed within a value at risk limit of 50 million dollars at 99 percent confidence interval over a 1 day holding period. Actual daily VaR averaged 23 million dollars over the past 12 months with a maximum of 41 million dollars. Stress testing using historical scenarios including the 1994 bond market crisis, the 2008 global financial crisis, and the 2020 pandemic shock produces maximum modelled losses of 180 million dollars.
+
+Foreign Exchange Risk:
+Westpac operates in 12 currencies arising from its New Zealand subsidiary, institutional banking operations, and international correspondent banking relationships. The net open position across all currencies is managed within a limit of 2 billion dollars. Currency risk in the banking book is largely eliminated through hedging, with residual exposures arising from foreign currency earnings of overseas subsidiaries.
+
+OPERATIONAL RISK
+
+Operational risk is the risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events. This definition includes legal risk but excludes strategic risk and reputational risk which are managed separately.
+
+Cybersecurity Risk:
+Cybersecurity represents the highest-rated operational risk facing the bank. The threat landscape has escalated significantly with nation-state actors, organised criminal groups, and hacktivists all targeting Australian financial institutions.
+
+Westpac experienced 847 security incidents in the 12 months to September 2024. Of these, 12 were classified as severity 1 requiring immediate escalation to the board and notification to APRA within 72 hours. No incidents resulted in material customer data compromise or financial loss exceeding the 10 million dollar materiality threshold for public disclosure.
+
+The bank invests 340 million dollars annually in cybersecurity including people, technology, and external advisory services. The security operations centre operates 24 hours a day 7 days a week and monitors 4.2 billion security events per day using a security information and event management platform. Mean time to detect security incidents is 23 minutes and mean time to respond is 4 hours.
+
+Technology Risk:
+Technology risk arises from the bank's significant dependence on complex technology systems for all critical operations. The core banking system, as described in the Digital Transformation Strategy, represents the highest technology risk given its age, complexity, and lack of vendor support for the underlying COBOL platform.
+
+Business continuity planning requires all critical systems to have recovery time objectives of 4 hours and recovery point objectives of 1 hour. Annual business continuity tests are conducted across all critical systems with results reported to the Board Risk Committee. The most recent test in March 2024 identified three systems that could not meet the 4-hour recovery time objective, all of which are scheduled for remediation before December 2024.
+
+Third Party Risk:
+Westpac uses 847 external vendors for technology, operations, and professional services. Of these, 124 are classified as critical vendors whose failure could cause material disruption to bank operations. All critical vendors are subject to annual risk assessments covering financial stability, operational resilience, information security practices, and regulatory compliance.
+
+LIQUIDITY AND FUNDING RISK
+
+Liquidity risk is the risk that the bank cannot meet its financial obligations as they fall due without incurring unacceptable losses. Westpac maintains liquidity resources well in excess of regulatory requirements.
+
+The liquidity coverage ratio measures the bank's ability to survive a 30-day severe stress scenario. Westpac's LCR is 138 percent against a regulatory minimum of 100 percent. The high quality liquid asset portfolio consists of Australian government bonds, semi-government bonds, and Reserve Bank of Australia eligible securities totalling 98 billion dollars.
+
+The net stable funding ratio measures the stability of the bank's funding profile over a 12-month horizon. Westpac's NSFR is 121 percent against a regulatory minimum of 100 percent. Customer deposits represent 67 percent of total funding and provide the most stable funding base. Wholesale funding of 180 billion dollars has an average remaining maturity of 4.2 years.
+
+Funding Concentration Risk:
+The bank manages funding concentration across investor type, geography, instrument type, and maturity. No single investor accounts for more than 2 percent of total wholesale funding. Offshore wholesale funding from US, European, and Asian investors represents 42 percent of total wholesale funding, providing diversification benefits but introducing foreign exchange and geopolitical risk.
+
+REGULATORY AND COMPLIANCE RISK
+
+Westpac operates in a heavily regulated environment subject to oversight from APRA, ASIC, AUSTRAC, the Reserve Bank of Australia, the Australian Competition and Consumer Commission, and equivalent regulators in New Zealand and other jurisdictions.
+
+The bank operates under enforceable undertakings with APRA relating to risk governance improvements following the findings of the Westpac Accountability Review in 2020. All undertaking milestones have been met to date with the final milestone due for completion in March 2025.
+
+AUSTRAC issued a 1.3 billion dollar civil penalty against Westpac in 2020 for anti-money laundering and counter-terrorism financing breaches. The bank has invested 400 million dollars in financial crime remediation since 2020 and has implemented a comprehensive financial crime program covering transaction monitoring, customer due diligence, and correspondent banking risk management.

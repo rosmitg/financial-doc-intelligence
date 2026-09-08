@@ -1,0 +1,101 @@
+WESTPAC BANKING CORPORATION
+ECONOMIC OUTLOOK REPORT
+FOURTH QUARTER 2024
+CLASSIFICATION: PUBLIC
+DEPARTMENT: ECONOMICS
+PREPARED BY: Westpac Economics Team
+DATE: September 2024
+
+EXECUTIVE SUMMARY
+
+The Australian economy is navigating a soft landing as the Reserve Bank of Australia's aggressive interest rate tightening cycle of 2022 and 2023 progressively slows economic activity and brings inflation back toward the 2 to 3 percent target band. Westpac Economics forecasts GDP growth of 1.8 percent for calendar year 2024, rising to 2.4 percent in 2025 as rate cuts stimulate consumer spending and housing construction recovers.
+
+The central scenario is a gradual improvement in economic conditions through 2025 as monetary policy eases and real wages growth supports household consumption. However, the risk profile is skewed to the downside. A delayed start to the rate cutting cycle, a sharper-than-expected deterioration in the labour market, or an external shock such as a global recession or geopolitical disruption could push the Australian economy toward recession with material consequences for the banking sector.
+
+The housing market is central to the economic outlook given that residential property is the primary asset of Australian households and the primary collateral for bank lending. Westpac Economics forecasts national house prices to increase 5 percent over 2024 before moderating to 3 percent growth in 2025 as affordability constraints limit demand despite an easing interest rate environment.
+
+MACROECONOMIC OUTLOOK
+
+GDP Growth:
+Australian GDP grew 1.5 percent in the year to June 2024, the slowest annual growth rate since the 1991 recession excluding the COVID-19 pandemic period. The slowdown reflects the impact of higher interest rates reducing household discretionary spending, a correction in residential construction activity, and slowing growth in major export markets particularly China.
+
+The expenditure components of GDP show a bifurcated economy. Government spending grew 4.2 percent in the year to June 2024, supported by state government infrastructure investment programs and federal government cost of living relief measures. Private consumption grew just 0.8 percent as higher mortgage repayments absorbed a significant share of household income growth. Residential investment declined 4 percent reflecting reduced new dwelling construction starts.
+
+Westpac Economics forecasts GDP growth to recover to 2.4 percent in 2025 driven by three factors. First, interest rate cuts beginning in May 2025 will reduce mortgage repayment burdens and release household spending capacity. Second, population growth from net overseas migration of approximately 400,000 persons per year is supporting demand for goods and services independent of the interest rate cycle. Third, infrastructure investment by state governments is providing a direct stimulus to construction activity and employment.
+
+Inflation:
+Headline consumer price inflation moderated to 3.4 percent in the year to August 2024 from a peak of 8.4 percent in December 2022. The decline reflects easing goods inflation as global supply chains normalised following the pandemic disruption and as the stronger Australian dollar reduced the cost of imported goods.
+
+Services inflation remains elevated at 4.8 percent year on year and is proving more persistent than goods inflation. The key drivers of services inflation are rents rising 7.2 percent year on year reflecting the structural undersupply of rental accommodation, insurance premiums increasing 16 percent reflecting higher claim costs, and electricity prices increasing 14 percent following the removal of government subsidies.
+
+Trimmed mean inflation, the Reserve Bank's preferred measure of underlying inflation which excludes the most volatile items, is 3.9 percent year on year, above the top of the 2 to 3 percent target band. The Reserve Bank has indicated it needs to see trimmed mean inflation return sustainably within the target band before beginning rate cuts, which Westpac Economics expects to be achieved by March 2025.
+
+INTEREST RATE OUTLOOK
+
+Reserve Bank Policy:
+The RBA cash rate has been held at 4.35 percent since November 2023 following a series of rate increases totalling 425 basis points beginning in May 2022. At 4.35 percent the cash rate is at its highest level since December 2011 and is approximately 150 basis points above the estimated neutral rate, meaning monetary policy is meaningfully restrictive.
+
+Westpac Economics forecasts the first 25 basis point rate cut in May 2025. This timing reflects the expectation that trimmed mean inflation will have returned within the 2 to 3 percent target band by March 2025, giving the Reserve Bank confidence to begin normalising monetary policy. The May forecast is consistent with the Reserve Bank's communicated preference to act on actual data rather than forecasts.
+
+The full easing cycle is expected to deliver 100 basis points of rate cuts by December 2025, taking the cash rate to 3.35 percent. This level remains above the estimated neutral rate, meaning monetary policy will still be providing some restraint to the economy even after the cuts are delivered. A more accommodative policy stance of moving the cash rate below neutral is not expected unless the economy deteriorates more sharply than the base case.
+
+Mortgage Rate Impact:
+Variable mortgage rates for owner-occupiers are currently averaging 6.3 percent, representing an increase of 400 basis points from the trough of 2.3 percent in April 2022. The 100 basis points of rate cuts forecast for 2025 would reduce variable mortgage rates to approximately 5.3 percent by December 2025, reducing annual repayments on a 600,000 dollar mortgage by approximately 6,800 dollars.
+
+Fixed rate mortgage demand is at historically low levels of 5 percent of new lending, reflecting borrower expectations that variable rates will fall as the rate cutting cycle begins. Westpac Economics recommends that borrowers with mortgages maturing from fixed rates in the next 12 months consider variable rate products given the expected rate cutting cycle, rather than re-fixing at current elevated fixed rates.
+
+HOUSING MARKET ANALYSIS
+
+National House Price Outlook:
+Australian residential property prices have demonstrated remarkable resilience in the face of the most aggressive interest rate tightening cycle in a generation. National median house prices increased 6 percent in the year to August 2024, driven by structural supply shortfalls, strong population growth, and a tight labour market supporting household income.
+
+Westpac Economics forecasts national house prices to grow 5 percent in calendar year 2024 and 3 percent in 2025. The moderation in 2025 growth relative to 2024 reflects affordability constraints limiting demand even as interest rates decline, and a gradual increase in housing supply as new dwelling construction activity recovers from its current cyclical low.
+
+Sydney:
+Sydney median dwelling price reached 1.47 million dollars in August 2024, representing an increase of 6 percent year on year and 28 percent above the trough reached in February 2023 following the initial interest rate shock. The Sydney market is characterised by extreme supply constraints, with net dwelling additions of approximately 25,000 per year significantly below the net population increase from migration and natural population growth requiring an estimated 45,000 new dwellings annually.
+
+The apartment market in Sydney is showing greater price weakness than the house market, with median apartment prices declining 2 percent year on year in outer ring suburbs where investor demand has waned in response to higher borrowing costs and declining rental yields. The inner ring apartment market has been more resilient supported by strong rental demand from international students and young professionals.
+
+Melbourne:
+Melbourne median dwelling price of 920,000 dollars represents an increase of 2 percent year on year, significantly underperforming other capital cities. The Melbourne market has been affected by higher land taxes introduced by the Victorian state government in 2024, which have reduced investor demand and caused some investors to sell properties, adding to supply in an already more balanced market.
+
+The apartment market in Melbourne is facing structural challenges from a large pipeline of new supply being delivered in the inner and middle ring suburbs. Investor returns on recently purchased apartments are negative after accounting for mortgage costs, body corporate fees, land tax, and management costs, creating motivation for some investors to exit the market.
+
+Brisbane:
+Brisbane continues to outperform other capital cities with median house prices increasing 14 percent year on year to 870,000 dollars. The Brisbane market is benefiting from interstate migration, Olympic Games infrastructure investment, and relative affordability compared to Sydney and Melbourne. Westpac Economics forecasts Brisbane price growth to moderate to 8 percent in 2025 as affordability begins to constrain demand.
+
+LABOUR MARKET
+
+Employment and Unemployment:
+The Australian labour market has softened from the historically tight conditions of 2022 and 2023 but remains fundamentally resilient. The unemployment rate of 4.1 percent in August 2024 compares to the 50-year low of 3.4 percent reached in January 2023 and remains below the Reserve Bank's estimate of the non-accelerating inflation rate of unemployment at 4.5 percent.
+
+Employment growth of 1.8 percent year on year in the year to August 2024 reflects continued expansion in healthcare, education, professional services, and construction sectors, partially offset by job losses in retail and manufacturing as higher interest rates reduce consumer spending and import competition intensifies.
+
+Westpac Economics forecasts the unemployment rate to rise to 4.5 percent by mid-2025 as economic growth moderates. This level represents a cyclical peak consistent with the soft landing scenario rather than a recessionary labour market deterioration. A recession scenario with unemployment rising to 6 percent or above would represent a material downside risk to the bank's credit quality and would require significant additional provisioning.
+
+Wage Growth:
+The Wage Price Index grew 3.8 percent in the year to June 2024, above the 3.4 percent CPI inflation rate, meaning real wages returned to growth for the first time since 2021. Real wage growth is supportive of household consumption and debt serviceability, helping to offset the impact of higher mortgage repayments on household budgets.
+
+CREDIT CONDITIONS
+
+Household Credit:
+Household credit growth of 5.2 percent year on year reflects continued strong demand for mortgage finance despite higher interest rates. New mortgage originations are supported by population growth, particularly from the record net overseas migration of 510,000 persons in the year to June 2024, with many new arrivals entering the property market as buyers or renters within 2 years of arrival.
+
+Personal credit including credit cards, personal loans, and buy now pay later products declined 3 percent year on year as households reduced discretionary spending and paid down revolving debt balances in response to cost of living pressures. Credit card delinquencies of 1.4 percent are above pre-pandemic levels but remain well below the 2.1 percent peak reached during the 2008 global financial crisis.
+
+Business Credit:
+Business credit growth of 7 percent year on year reflects investment by large corporations in equipment, technology, and working capital. Small business credit growth is weaker at 2 percent with business confidence surveys showing elevated concern about the consumer spending outlook and cost pressures from wages and energy.
+
+Business insolvencies have increased 34 percent year on year to levels broadly consistent with pre-pandemic norms after years of suppressed insolvency activity supported by government stimulus and creditor forbearance. The construction and hospitality sectors have the highest insolvency rates, reflecting input cost pressures and the reversal of pandemic-era demand tailwinds.
+
+RISKS TO THE OUTLOOK
+
+Downside Risks:
+The primary downside risk to the economic outlook is a delay in the RBA rate cutting cycle beyond the May 2025 forecast. If inflation proves more persistent than expected, forcing the Reserve Bank to maintain the cash rate at 4.35 percent through to late 2025, the economy would experience a sharper contraction in consumer spending, a more significant rise in unemployment, and materially higher mortgage arrears than the base case.
+
+Global economic conditions represent a significant external risk. China's economy is growing at 4.8 percent, below the official 5 percent target and significantly below the historical growth rates that drove the Australian commodity export boom. A sharper slowdown in Chinese growth to below 3 percent would reduce demand for Australian iron ore and coal, reduce commodity prices, and potentially trigger a terms of trade shock that reduces national income and government revenues.
+
+Upside Risks:
+The primary upside risk to the economic outlook is a faster-than-expected decline in inflation, potentially allowing the Reserve Bank to begin rate cuts earlier than May 2025. An earlier first cut in February 2025 would provide a stronger impulse to consumer spending and housing activity, potentially generating GDP growth above the 2.4 percent forecast for 2025.
+
+Population growth from net overseas migration is a structural support for the economy that has proven more resilient than expected. If net migration remains above 400,000 persons per year, the additional demand for housing, consumer goods, and services would support economic activity above the base case forecast.
