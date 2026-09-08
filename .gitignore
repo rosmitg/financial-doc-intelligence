@@ -1,0 +1,30 @@
+# Environment
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data
+data/documents/*.pdf
+data/documents/*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# LlamaIndex cache
+storage/
+
+# Logs
+*.log
